@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Storyboards 1/Storyboards 1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Storyboards 2/Storyboards 2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:No Storyboards/No Storyboards.xcodeproj">
+   </FileRef>
+</Workspace>
